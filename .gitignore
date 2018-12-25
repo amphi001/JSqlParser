@@ -18,3 +18,6 @@
 *.java~
 *.yml~
 /nbproject/
+LICENSE
+*./*javacc*/*
+javacc
